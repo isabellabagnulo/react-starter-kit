@@ -1,8 +1,8 @@
-#React Starter Kit
+# React Starter Kit
 
 Starter template for React
 
-##Local installation
+## Local installation
 
 Install [node.js](https://nodejs.org)
 
